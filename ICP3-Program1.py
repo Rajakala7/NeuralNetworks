@@ -1,3 +1,11 @@
+Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignment-3
+Name: Rajakala Jaidi ID: 700744420
+1. Create a class Employee 
+2. Numpy
+Code File - ICP3-Assignment
+Document- Rajakala_Jaidi ICP3
+video link: https://drive.google.com/file/d/1FieHjocifgRtupfPG74mdN-l56XgUyKb/view?usp=drive_link
+
 class Employee:
     num_employees = 0
 
