@@ -17,3 +17,11 @@ Name: Rajakala Jaidi ID: 700744420
 Code File - ICP3-Program1.py, ICP3-Program2.py
 Document- Rajakala ICP3
 video link: https://drive.google.com/file/d/1q2TpfYTFrrgIogr5M47qIVx3iInOf_Wk/view?usp=drive_link
+
+Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignment-4
+Name: Rajakala Jaidi ID: 700744420
+1. Data Manipulation
+2.Linear Regression
+Code File - NNDL_Assignment4
+Document- Rajakala ICP4
+video link: https://drive.google.com/file/d/1qBdcaDg59LzoIRfV7EN0SJKKhoNhf6OW/view?usp=drive_link
