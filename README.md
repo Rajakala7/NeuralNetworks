@@ -25,3 +25,12 @@ Name: Rajakala Jaidi ID: 700744420
 Code File - NNDL_Assignment4
 Document- Rajakala ICP4
 video link: https://drive.google.com/file/d/1qBdcaDg59LzoIRfV7EN0SJKKhoNhf6OW/view?usp=drive_link
+
+
+Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignment-5
+Name: Rajakala Jaidi ID: 700744420
+
+1. Implement Naïve Bayes method using scikit-learn librar
+2. Implement linear SVM method using scikit library
+Code File- ICP5one, ICP5two Document- Rajakala ICP5
+video link:  https://drive.google.com/file/d/1sncQFRFdZJ3rDnfFp9kv3H_WxJQ6wMWK/view
