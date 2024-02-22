@@ -34,3 +34,14 @@ Name: Rajakala Jaidi ID: 700744420
 2. Implement linear SVM method using scikit library
 Code File- ICP5one, ICP5two Document- Rajakala ICP5
 video link:  https://drive.google.com/file/d/1sncQFRFdZJ3rDnfFp9kv3H_WxJQ6wMWK/view
+
+
+
+
+Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignment-6
+Name: Rajakala Jaidi ID: 700744420
+
+1. image1.py 2.normal.py 3.image2.py 4.dense.py 5.breast.py 6.image3.py
+Code File- ICP6, Document- Rajakala ICP6
+video link:  https://drive.google.com/file/d/1VAws62p0Sh37aaQ2sss4PS4Qg-DkYnYu/view?usp=sharing
+
