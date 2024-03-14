@@ -45,3 +45,25 @@ Name: Rajakala Jaidi ID: 700744420
 Code File- ICP6, Document- Rajakala ICP6
 video link:  https://drive.google.com/file/d/1VAws62p0Sh37aaQ2sss4PS4Qg-DkYnYu/view?usp=sharing
 
+
+Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming ICP8
+Name: Rajakala Jaidi ID: 700744420
+
+1. Tune hyperparameter and make necessary addition to the baseline model to improve validation accuracy 
+and reduce validation loss. 
+2. Provide logical description of which steps lead to improved response and what was its impact on 
+architecture behavior.
+3. Create at least two more visualizations using matplotlib (Other than provided in the source file)
+4. Use dataset of your own choice and implement baseline models provided.
+5. Apply modified architecture to your own selected dataset and train it.
+6. Evaluate your model on testing set.
+7. Save the improved model and use it for prediction on testing data
+8. Provide plot of confusion matric
+9. Provide Training and testing Loss and accuracy plots in one plot using subplot command and history object.
+10. Provide at least two more visualizations reflecting your solution. 
+11. Provide logical description of which steps lead to improved response for new dataset when compared with 
+baseline model and enhance architecture and what was its impact on architecture behavior.
+Code File- ICP8, Document- Assignment8.ipynb
+video link:  https://drive.google.com/file/d/1oUc53XywHN2mySK-GzMW8ynIx5ldh6Dw/view?usp=sharing
+
+
