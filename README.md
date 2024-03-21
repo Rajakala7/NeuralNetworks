@@ -66,7 +66,7 @@ baseline model and enhance architecture and what was its impact on architecture 
 Code File- ICP7, Document- Assignment7.ipynb
 video link:  https://drive.google.com/file/d/1oUc53XywHN2mySK-GzMW8ynIx5ldh6Dw/view?usp=sharing
 
-Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming ICP7
+Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming ICP8
 Name: Rajakala Jaidi ID: 700744420
 
 1. Add one more hidden layer to autoencoder
