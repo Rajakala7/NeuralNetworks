@@ -46,7 +46,7 @@ Code File- ICP6, Document- Rajakala ICP6
 video link:  https://drive.google.com/file/d/1VAws62p0Sh37aaQ2sss4PS4Qg-DkYnYu/view?usp=sharing
 
 
-Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming ICP8
+Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming ICP7
 Name: Rajakala Jaidi ID: 700744420
 
 1. Tune hyperparameter and make necessary addition to the baseline model to improve validation accuracy 
@@ -63,7 +63,19 @@ architecture behavior.
 10. Provide at least two more visualizations reflecting your solution. 
 11. Provide logical description of which steps lead to improved response for new dataset when compared with 
 baseline model and enhance architecture and what was its impact on architecture behavior.
-Code File- ICP8, Document- Assignment8.ipynb
+Code File- ICP7, Document- Assignment7.ipynb
 video link:  https://drive.google.com/file/d/1oUc53XywHN2mySK-GzMW8ynIx5ldh6Dw/view?usp=sharing
+
+Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming ICP7
+Name: Rajakala Jaidi ID: 700744420
+
+1. Add one more hidden layer to autoencoder
+2. Do the prediction on the test data and then visualize one of the reconstructed version of that test data.
+Also, visualize the same test data before reconstruction using Matplotlib
+3. Repeat the question 2 on the denoisening autoencoder
+4. plot loss and accuracy using the history object
+
+Code File- ICP8, Document- Assignment8.ipynb
+video link: https://drive.google.com/file/d/1xCrcSDWf9lhDHb50IIz99zPr2CPEqvlk/view?usp=sharing
 
 
