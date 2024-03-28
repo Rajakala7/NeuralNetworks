@@ -74,8 +74,16 @@ Name: Rajakala Jaidi ID: 700744420
 Also, visualize the same test data before reconstruction using Matplotlib
 3. Repeat the question 2 on the denoisening autoencoder
 4. plot loss and accuracy using the history object
-
 Code File- ICP8, Document- Assignment8.ipynb
 video link: https://drive.google.com/file/d/1xCrcSDWf9lhDHb50IIz99zPr2CPEqvlk/view?usp=sharing
+
+Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming ICP9
+Name: Rajakala Jaidi ID: 700744420
+
+1. Save the model and use the saved model to predict on new text data (ex, “A lot of good things are
+happening. We are respected again throughout the world, and that's a great thing.@realDonaldTrump”)
+2. Apply GridSearchCV on the source code provided in the class 
+Code File- ICP9, Document- Assignment9-1.ipynb, Assignment9-2.ipynb
+video linl: https://drive.google.com/file/d/1oSRMvEOTs8GKPWQVFxbDsHOuHftNl0BE/view?usp=sharing
 
 
